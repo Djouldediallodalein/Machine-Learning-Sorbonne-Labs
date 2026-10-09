@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+scikit-learn
+scikit-image
+pillow
+cvxopt        # TP6
+tensorflow    # TP7 (télécharge MNIST au premier lancement)
+jupyter
